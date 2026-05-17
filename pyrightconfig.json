@@ -1,0 +1,7 @@
+{
+    "venvPath": "C:/Users/spadh/anaconda3/envs",
+    "venv": "lanchain_models",
+    "extraPaths": [
+        "C:/Users/spadh/anaconda3/envs/lanchain_models/Lib/site-packages"
+    ]
+}
