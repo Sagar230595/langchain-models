@@ -1,6 +1,4 @@
-# pyrefly: ignore [missing-import]
 from langchain_openai import OpenAI
-# pyrefly: ignore [missing-import]
 from dotenv import load_dotenv
 
 load_dotenv()
